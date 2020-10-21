@@ -10,7 +10,7 @@
     <ol>
     <li>Go to the <a href="https://github.com/doakey3/VSE_Transform_Tools/releases">Releases</a> page and download the latest <code>VSE_Transform_Tools.zip</code></li>
     <li>Open Blender</li>
-    <li>Go to File &gt; User Preferences &gt; Addons</li>
+    <li>Go to Edit &gt; Preferences &gt; Add-ons</li>
     <li>Click "Install From File" and navigate to the downloaded .zip file and install</li>
     <li>Check the box next to "VSE Transform Tools"</li>
     <li>Save User Settings so the addon remains active every time you open Blender</li>
